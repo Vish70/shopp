@@ -245,7 +245,7 @@ height:270px;
 .small-img{
 	flex-wrap:wrap;
 	display:flex;
-	margin-top:-.2rem;
+	margin-top:-.4rem;
 	padding:.2rem 0 0 0;
 	grid-column-gap:.3rem;
 	align-items:center;
